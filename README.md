@@ -1,5 +1,3 @@
-Voici un exemple de README pour votre projet, organisé par phases conformément aux modalités pédagogiques et aux fichiers inclus dans chaque phase.
-
 # Projet Docker : Déploiement et Gestion de Conteneurs
 
 Ce projet est structuré en quatre phases pour apprendre et appliquer les concepts de Docker, de la veille technique à la mise en conteneur d'une application en conditions réelles.

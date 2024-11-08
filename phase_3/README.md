@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
 Le fichier `requirements.txt` va contenir les bibliothèques Python nécessaires pour cette application.
 
-```cmd
+```bash
 pip freeze > requirements.txt
 ```
 
@@ -59,7 +59,7 @@ CMD ["python", "app.py"]
 ```
 
 Pour ne pas s'embêter sur la rédaction du dockerfile. J'utiliser `docker init`
-```cmd
+```bash
 docker init
 ```
 

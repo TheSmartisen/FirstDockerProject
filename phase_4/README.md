@@ -26,3 +26,18 @@ Déploiement d'un modèle de prédiction avec Docker, en exposant une API pour e
 
 Le `Dockerfile` pour construire l'image de l'application se trouve dans le dépôt GitHub :  
 [https://github.com/TheSmartisen/nutriscore-prediction](https://github.com/TheSmartisen/nutriscore-prediction).
+
+
+## Bonus : Connexion avec une Base de Données Dockerisée
+
+Dans cette étape bonus, nous allons connecter le conteneur Flask à une base de données PostgreSQL Dockerisée et tester la communication entre les deux conteneurs.
+
+### Étape supplémentaire
+
+1. **Changer de branche** :
+   ```bash
+   git checkout bascule-postgre
+   ```
+
+Pour plus d'informations, consultez la branche "bascule-postgre" du dépôt GitHub :  
+[https://github.com/TheSmartisen/nutriscore-prediction/tree/bascule-postgre](https://github.com/TheSmartisen/nutriscore-prediction/tree/bascule-postgre).
